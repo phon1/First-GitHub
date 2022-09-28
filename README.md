@@ -10,3 +10,6 @@ hahaha
 
 ## Edit 2 and use pull
 pull
+
+## Edit 3 and use push
+push
