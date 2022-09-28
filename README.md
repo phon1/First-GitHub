@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 ## Edit README
 hihi 
 hahaha
+
+## Edit 2 and use pull
+pull
